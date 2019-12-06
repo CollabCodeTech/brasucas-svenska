@@ -1,6 +1,8 @@
 # Brasucas Svenska
 ## Comunidade para trocar conhecimento a quem quer migrar ou está na Suécia
 
+Grupo fundado pelo [Ralf](https://github.com/caesar-ralf)
+
 Antes de qualquer coisa, leia as regras básicas da imagem e também as regras a seguir dela:
 <center>
   <img src="img/regras.jpg" alt="Regras básicas">
