@@ -19,3 +19,4 @@ Sites a seguir para fazer suas buscas. Nem todas as descrições das casas estã
   - [Bostad Blocket](https://bostad.blocket.se)
   - [Be Resident](https://www.beresidentsweden.com)
   - [Qasa](https://en.qasa.se)
+  - [Samtrygg](https://www.samtrygg.se)
