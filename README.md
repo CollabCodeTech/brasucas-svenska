@@ -20,3 +20,8 @@ Sites a seguir para fazer suas buscas. Nem todas as descrições das casas estã
   - [Be Resident](https://www.beresidentsweden.com)
   - [Qasa](https://en.qasa.se)
   - [Samtrygg](https://www.samtrygg.se)
+
+
+# Links úteis
+
+  - [Locais para banho, qualidade e temperatura da água](https://www.havochvatten.se/hav/fiske--fritid/badvatten/kommuner-och-badplatser/kommuner/badplatser-i-stockholms-kommun.html#) - Neste site é possível ver uma lista de locais para banho e qualidade/temperatura da água. Use o mapa para buscar por outras localizações.
