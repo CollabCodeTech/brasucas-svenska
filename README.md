@@ -20,3 +20,10 @@ Sites a seguir para fazer suas buscas. Nem todas as descrições das casas estã
   - [Be Resident](https://www.beresidentsweden.com)
   - [Qasa](https://en.qasa.se)
   - [Samtrygg](https://www.samtrygg.se)
+
+
+## Onde comprar comida brasileira?
+
+  - [Pitanga](https://www.pitangabrasil.se/) - loja online
+  - [Latinamerikanska](https://www.latinamerikanska.se/) - loja online e física no mercado Hötorgshallen
+  - Alô Brasil Café - loja física no endereço Renstiernas gata 28, 116 31 Stockholm
